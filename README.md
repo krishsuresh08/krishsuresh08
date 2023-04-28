@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Hi there this is Suresh Krishnan, Full Stack Web Developer.
 Other than coding i love to read books.
-<img alt="react" src="[https://www.bing.com/images/search?view=detailV2&ccid=dJTqBQy3&id=44D741BC84984CD27EDB93AA257BB5E89B290069&thid=OIP.dJTqBQy3mMnMdI8klN_kHAHaGT&mediaurl=https%3a%2f%2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--qo_Wp38Z--%2fc_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fi%2fe0nl7ziy1la7bpwj7rsp.png&exph=750&expw=880&q=react+image&simid=608017535374869663&FORM=IRPRST&ck=AECB51604F8727795F5525824DA38793&selectedIndex=](https://th.bing.com/th/id/OIP.eiK5O-XTrbVJ3Lim5EA8IwHaDA?pid=ImgDet&rs=1)2" />
+<img alt="react" src="https://th.bing.com/th/id/OIP.eiK5O-XTrbVJ3Lim5EA8IwHaDA?pid=ImgDet&rs=1)2" />
 Keep Coding. Keep Learning.
 CHEERS!!
