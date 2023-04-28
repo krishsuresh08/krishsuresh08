@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi there this is Suresh Krishnan, Full Stack Web Developer.
 Other than coding i love to read books.
-<img alt="react" src="https://th.bing.com/th/id/OIP.eiK5O-XTrbVJ3Lim5EA8IwHaDA?pid=ImgDet&rs=1)2" />
+
 Keep Coding. Keep Learning.
 CHEERS!!
+<img alt="react" src="https://flyclipart.com/thumb2/reactjs-developer-221732.png" />
