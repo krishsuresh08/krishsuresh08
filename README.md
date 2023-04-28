@@ -19,4 +19,4 @@ Other than coding i love to read books.
 
 Keep Coding. Keep Learning.
 CHEERS!!
-<img alt="react" src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" target:"blank" height:"100" />
+<img alt="react" src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" target:"blank" height:"100px" />
