@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there this is Suresh Krishnan, Full Stack Web Developer.
-Other than coding i love to read books.
-Keep Coding. Keep Learning.
-CHEERS!!
-<img src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" alt="Image Description" height="100" />
+Hi there, this is Suresh Krishnan, Full Stack Web Developer.
+
